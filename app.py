@@ -1,6 +1,6 @@
 import streamlit as st
 from pathlib import Path
-import google.generativeai as genai
+import google-generativeai as genai
 import urllib3
 from google.generativeai import caching
 from api_key import api_key
